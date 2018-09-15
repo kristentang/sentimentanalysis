@@ -26,7 +26,7 @@ I think the analysis worked uniquely on this set of data, because the reviews we
 
 ## Movie Review 
 <img src = "https://kristentang.github.io/photos/sentiment3.jpg">
-<img src = "https://kristentang.github.io/photos/sentiment333.jpg">
+<img src = "https://kristentang.github.io/photos/sentiment33.jpg">
 Some interesting words uniquely associated with reviews receiving negative sentiment scores: unpleasant, unbalanced, harsh, boring, socks\
 Some interesting words uniquely associated with reviews receiving positive sentiment scores: settles, amazing, harmony, intensely, spices, gingery
 
